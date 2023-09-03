@@ -26,8 +26,11 @@ python indeed.py  python indeed.py -q '<search_query>' -r <within x kilometers> 
 ```
 
 -q represents the "What"
+
 -r Within X Kilometers
+
 -l represents the "Where"
+
 -m The maximum number of results you would like extracted
 
 Below is an example of what these extraction criteria represent on the actual indeed website:
